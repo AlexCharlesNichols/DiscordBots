@@ -1,7 +1,3 @@
-Here’s a succinct but professional **README.md** you can use for your GitHub repository:
-
----
-
 # NipBot 🎧🤖
 
 A multipurpose Discord bot built using **Node.js** and **Discord.js**, designed for fun interactions, media playback, and automated responses.
@@ -56,7 +52,3 @@ This project was created as a learning exercise in **Discord bot development**, 
 
 * This bot was originally created for personal use and experimentation with Discord APIs.
 * Ensure you never commit your Discord bot token to version control.
-
----
-
-Would you like me to make it sound more **professional** (like for a portfolio) or more **casual/fun** (like for a personal GitHub repo)? I can adapt the tone accordingly.
